@@ -10,7 +10,7 @@ A solução permite analisar o desempenho financeiro por período, acompanhar me
 <img width="900" height="500" alt="Dash Amarelo" src="https://github.com/user-attachments/assets/eb757a20-9aa8-4084-ae75-77d9d261190c" />
 
 
-## Principais Indicadores e Funcionalidades
+## 📊 Principais Indicadores e Funcionalidades
 
 * **Contas a Receber:** visão consolidada dos valores a receber e do saldo em aberto.
 * **Recebimentos Acumulados (YTD):** acompanhamento dos valores recebidos no ano em relação às metas estabelecidas.
@@ -63,10 +63,9 @@ O dashboard oferece uma visão consolidada do desempenho operacional, auxiliando
 
 ## Dashboard
 
-<img width="900" height="517" alt="image" src="https://github.com/user-attachments/assets/5d2b5ee0-5937-46e3-b3a6-ab14ba8fa4cb" />
+<img width="900" height="517" alt="media-disponibilidade" src="https://github.com/user-attachments/assets/da240d4e-515d-4191-ad07-7f3ff15cab5f" />
 
-
-## Principais Indicadores e Funcionalidades
+## 📊 Principais Indicadores e Funcionalidades
 
 * **Disponibilidade Operacional:** acompanhamento do percentual de tempo em que as linhas de produção permanecem disponíveis para operação.
 * **MTTR (Mean Time to Repair):** cálculo do tempo médio necessário para reparar os equipamentos após uma falha.
@@ -107,4 +106,47 @@ A utilização dessa integração reduz a necessidade de consolidação manual d
 O projeto demonstra a aplicação de **Business Intelligence na manutenção industrial**, integrando dados operacionais via API, transformando registros de chamados em indicadores de confiabilidade e disponibilidade e disponibilizando informações estratégicas para apoiar a gestão da manutenção e a eficiência das linhas de produção.
 
 **Tecnologias:** Power BI · DAX · Power Query · Jotform Apps API
+
+# Daily Management Marketing Lead Time
+
+## 📊 Principais Indicadores e Funcionalidades
+Este dashboard foi desenvolvido para monitorar, em tempo real, o desempenho operacional do processo de qualificação de leads pelo time de Marketing. A solução permite acompanhar o tempo de maturação dos leads (Lead Time), identificar oportunidades com baixa interação e analisar a eficiência da conversão de leads em MQLs (Marketing Qualified Leads).
+
+##  Preview
+![Dashboard Marketing Lead Time](./images/dashboard-marketing-leadtime.png)
+
+## Objetivo
+Fornecer uma visão consolidada do funil de qualificação, auxiliando gestores e analistas na identificação de gargalos, acompanhamento da produtividade da equipe e redução do tempo necessário para a evolução dos leads até as próximas etapas do processo comercial.
+
+## 📌 Principais Indicadores
+- Lead Time médio dos MQLs
+- Volume total de MQLs enviados ao CRM
+- Leads criados nas últimas 24 horas
+- Taxa de conversão de Marketing para CRM
+- Quantidade de leads em processo de esfriamento
+- Distribuição de leads por faixa de inatividade
+- Performance dos usuários responsáveis pelo atendimento
+
+## 🔍 Principais Análises
+- Monitoramento em tempo real dos leads qualificados pelo Marketing.
+- Identificação de MQLs sem interação e com risco de perda.
+- Análise do tempo de permanência dos leads em cada etapa do funil.
+- Acompanhamento da eficiência operacional por usuário.
+- Priorização de ações para recuperação de oportunidades estagnadas.
+- Avaliação da qualidade e velocidade da passagem de leads para o CRM.
+
+## 💡 Insights de Negócio
+O dashboard permite identificar rapidamente gargalos no processo de qualificação e distribuição de leads, reduzindo o tempo de resposta das equipes e aumentando as chances de conversão. A visualização dos leads "esfriando" possibilita ações preventivas para evitar a perda de oportunidades e melhorar a eficiência do funil de vendas.
+
+## Tecnologias Utilizadas
+
+| Tecnologia             | Aplicação                                                                                 |
+| ---------------------- | ---------------------------------------------------------------------------------------   |
+| **Power BI**           | Desenvolvimento do dashboard, criação de indicadores e visualização interativa dos dados. |
+| **DAX**                | Desenvolvimento de medidas e cálculos para MTTR, MTBF e disponibilidade operacional.      |
+| **Integração RD CRM ** | Integração e extração dos registros de manutenção e chamados.                             |
+
+
+## Resultado Esperado
+Aumentar a eficiência do processo de gestão de leads, reduzir o Lead Time médio dos MQLs e melhorar a conversão entre Marketing e Vendas por meio do monitoramento contínuo de indicadores críticos.
 
