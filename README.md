@@ -113,12 +113,14 @@ O projeto demonstra a aplicação de **Business Intelligence na manutenção ind
 Este dashboard foi desenvolvido para monitorar, em tempo real, o desempenho operacional do processo de qualificação de leads pelo time de Marketing. A solução permite acompanhar o tempo de maturação dos leads (Lead Time), identificar oportunidades com baixa interação e analisar a eficiência da conversão de leads em MQLs (Marketing Qualified Leads).
 
 ##  Preview
-![Dashboard Marketing Lead Time](./images/dashboard-marketing-leadtime.png)
+
+<img width="800" height="456" alt="Marketing-dashboard" src="https://github.com/user-attachments/assets/f6a701c4-5512-4d85-a25b-1a65c1390878" />
+
 
 ## Objetivo
 Fornecer uma visão consolidada do funil de qualificação, auxiliando gestores e analistas na identificação de gargalos, acompanhamento da produtividade da equipe e redução do tempo necessário para a evolução dos leads até as próximas etapas do processo comercial.
 
-## 📌 Principais Indicadores
+##  Principais Indicadores
 - Lead Time médio dos MQLs
 - Volume total de MQLs enviados ao CRM
 - Leads criados nas últimas 24 horas
@@ -127,7 +129,7 @@ Fornecer uma visão consolidada do funil de qualificação, auxiliando gestores 
 - Distribuição de leads por faixa de inatividade
 - Performance dos usuários responsáveis pelo atendimento
 
-## 🔍 Principais Análises
+##  Principais Análises
 - Monitoramento em tempo real dos leads qualificados pelo Marketing.
 - Identificação de MQLs sem interação e com risco de perda.
 - Análise do tempo de permanência dos leads em cada etapa do funil.
@@ -135,7 +137,7 @@ Fornecer uma visão consolidada do funil de qualificação, auxiliando gestores 
 - Priorização de ações para recuperação de oportunidades estagnadas.
 - Avaliação da qualidade e velocidade da passagem de leads para o CRM.
 
-## 💡 Insights de Negócio
+##  Insights de Negócio
 O dashboard permite identificar rapidamente gargalos no processo de qualificação e distribuição de leads, reduzindo o tempo de resposta das equipes e aumentando as chances de conversão. A visualização dos leads "esfriando" possibilita ações preventivas para evitar a perda de oportunidades e melhorar a eficiência do funil de vendas.
 
 ## Tecnologias Utilizadas
