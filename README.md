@@ -2,8 +2,7 @@
 
 ## Sobre o Projeto
 
-Dashboard desenvolvido em **Power BI** para monitoramento e gestão de contas a receber, com foco no acompanhamento de valores em aberto, recebimentos realizados e títulos vencidos.
-
+Dashboard desenvolvido em **Power BI** para monitoramento e gestão de contas a receber, com foco no acompanhamento de valores em aberto, recebimentos realizados e títulos vencidos. 
 A solução permite analisar o desempenho financeiro por período, acompanhar metas de recebimento e identificar pendências que exigem atenção, contribuindo para uma gestão mais eficiente das cobranças e do fluxo de caixa.
 
 ## Dashboard
